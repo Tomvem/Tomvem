@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-<h3 align="center">Stack Visual (Skill Icons)</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,java,spring,mysql,figma&theme=dark" alt="Skill Icons" />
@@ -75,11 +75,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
 </p>
 
-<!-- TROFÉUS -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tonwem&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
