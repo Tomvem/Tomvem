@@ -1,25 +1,3 @@
-<!-- BANNER COM CAPSULE RENDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=9d4edd&height=220&section=header&text=%C3%89verton%20Hildebrando&fontSize=42&animation=twinkling&fontColor=ffffff" alt="Banner Éverton" width="100%" />
-</p>
-
-<!-- DIGITAÇÃO ANIMADA -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend;JavaScript+%7C+HTML+%7C+CSS;Criando+interfaces+modernas;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- BADGES DE REDE E SEGUIDORES -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Tonwem?label=Seguidores&style=for-the-badge&color=7159c1&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Tonwem?label=Estrelas&style=for-the-badge&color=00f5d4&logo=github" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=Tonwem&color=38BDF8&style=for-the-badge&label=Visitas" alt="Visitor Counter" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
-</p>
 
 <!-- CARD PRINCIPAL: SOBRE MIM -->
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
