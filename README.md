@@ -85,25 +85,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
 </p>
 
-<!-- SEÇÃO: DASHBOARD DE ESTATÍSTICAS -->
-<h2 align="center">📊 Dashboard de Performance & Estatísticas</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tonwem&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false&order=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonwem&layout=compact&theme=tokyonight&locale=pt-br&hide_border=false&order=2" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tonwem&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tonwem&theme=tokyo-night&bg_color=1a1b26&hide_border=false" alt="Activity Graph" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
-</p>
 
 <!-- PROJETOS EM FORMATO DE CARDS PREMIUM -->
 <h2 align="center">💻 Portfólio de Projetos</h2>
@@ -187,49 +168,23 @@
         <li>🎨 <code>Conceitos de UI/UX</code></li>
       </ul>
     </td>
-    <!-- COLUNA 2: OBJETIVOS -->
-    <td width="50%" valign="top" style="border: none; padding-left: 15px;">
-      <h3 align="center">🎯 Objetivos para 2026</h3>
-      <ul style="line-height: 1.8; list-style-type: none; padding-left: 0;">
-        <li>🟩 [ ] Dominar profundamente o <strong>React</strong></li>
-        <li>🟩 [ ] Desenvolver e implantar 5 projetos completos full-stack</li>
-        <li>🟩 [ ] Realizar contribuições ativas em projetos <strong>Open Source</strong></li>
-        <li>💼 [ ] Conquistar vaga definitiva como <strong>Desenvolvedor Frontend</strong></li>
-        <li>🟩 [ ] Consolidar domínio em microsserviços com <strong>Spring Boot</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
 </p>
 
-<!-- SNAKE ANIMATION -->
-<h2 align="center">🐍 GitHub Snake Contribution Graph</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tonwem/Tonwem/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" onerror="this.src='https://cdn.jsdelivr.net/gh/platane/snk@master/assets/snake.svg'" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
-</p>
 
 <!-- CONTATO -->
-<h2 align="center">🤝 Vamos nos conectar!</h2>
+<h2 align="center">🤝Conexões</h2>
 <p align="center">
-  <a href="https://github.com/Tonwem" target="_blank">
+  <a href="https://github.com/Tomvem" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="www.linkedin.com/in/evertonhildebrando" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@dominio.com">
+  <a href="evertonhildebrando1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<!-- RODAPÉ ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=38BDF8&height=80&section=footer" width="100%" alt="Footer Banner" />
-</p>
