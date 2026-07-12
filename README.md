@@ -1,40 +1,34 @@
-<!-- CARD PRINCIPAL: APRESENTAÇÃO -->
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <h2 align="center">👋 Apresentação</h2>
-      <p align="justify" style="font-size: 11pt; line-height: 1.6;">
-        Olá! Sou o <strong>Éverton Hildebrando</strong>, um desenvolvedor apaixonado por desenvolvimento web e por transformar ideias em experiências digitais incríveis. Atualmente, moro em Palhoça - SC e estou expandindo constantemente meu ecossistema de habilidades tecnológicas.
-      </p>
-      <p align="justify" style="font-size: 11pt; line-height: 1.6;">
-        Meu foco principal é o <strong>Desenvolvimento Frontend</strong>, onde utilizo HTML, CSS e JavaScript para construir interfaces modernas, totalmente responsivas, intuitivas e esteticamente refinadas. Tenho forte interesse em UI/UX para garantir que cada linha de código resulte em valor real para o usuário final. Além disso, possuo sólidos conhecimentos em Backend com <strong>Java e MySQL</strong>, o que me permite compreender e integrar arquiteturas completas e APIs RESTful.
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- SEÇÃO: APRESENTAÇÃO -->
+<div align="center">
+  <h2>Olá Devs!!</h2>
+  <p align="justify" style="font-size: 11pt; line-height: 1.6;">
+    Olá! Sou o <strong>Éverton Hildebrando</strong>, um desenvolvedor apaixonado por desenvolvimento web e por transformar ideias em experiências digitais incríveis. Atualmente, moro em Palhoça - SC e estou expandindo constantemente meu ecossistema de habilidades tecnológicas.
+  </p>
+  <p align="justify" style="font-size: 11pt; line-height: 1.6;">
+    Meu foco principal é o <strong>Desenvolvimento Frontend</strong>, onde utilizo HTML, CSS e JavaScript para construir interfaces modernas, totalmente responsivas, intuitivas e esteticamente refinadas. Tenho forte interesse em UI/UX para garantir que cada linha de código resulte em valor real para o usuário final. Além disso, possuo sólidos conhecimentos em Backend com <strong>Java e MySQL</strong>, o que me permite compreender e integrar arquiteturas completas e APIs RESTful.
+  </p>
+</div>
 
 <br>
 
-<!-- INFORMAÇÕES ACADÊMICAS -->
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
-      <h3>🎓 Formação Acadêmica</h3>
-      <ul>
-        <li><strong>Ciência da Computação</strong> (Bacharelado)<br><small>UNISUL — Cursando</small></li>
-        <li><strong>Análise e Desenvolvimento de Sistemas</strong> (Técnico)<br><small>SENAI</small></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
-      <h3>🚀 Foco Atual</h3>
-      <ul>
-        <li>Aprimoramento em <strong>React</strong> e Ecossistema Frontend</li>
-        <li>Criação de soluções limpas e escaláveis</li>
-        <li>Arquiteturas robustas com <strong>Spring Boot</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<!-- INFORMAÇÕES ACADÊMICAS & FOCO ATUAL -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 280px; padding-right: 10px;">
+    <h3>🎓 Formação Acadêmica</h3>
+    <ul>
+      <li><strong>Ciência da Computação</strong> (Bacharelado)<br><small>UNISUL — Cursando</small></li>
+      <li><strong>Análise e Desenvolvimento de Sistemas</strong> (Técnico)<br><small>SENAI</small></li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 280px; padding-left: 10px;">
+    <h3>🚀 Foco Atual</h3>
+    <ul>
+      <li>Aprimoramento em <strong>React</strong> e Ecossistema Frontend</li>
+      <li>Criação de soluções limpas e escaláveis</li>
+      <li>Arquiteturas robustas com <strong>Spring Boot</strong></li>
+    </ul>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
@@ -77,8 +71,8 @@
 <h2 align="center">💻 Portfólio de Projetos</h2>
 <br>
 
-<table align="center" width="100%" border="0" cellspacing="15" cellpadding="0">
-  <tr>
+<table align="center" width="100%" border="0" cellspacing="15" cellpadding="0" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
     <!-- CARD 1 -->
     <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #7159c1; border-radius: 8px; padding: 20px;" valign="top">
       <h3 align="center" style="color: #00f5d4; margin-top: 0;">📚 Sistema Gestão de Alunos</h3>
@@ -106,7 +100,7 @@
       </p>
     </td>
   </tr>
-  <tr>
+  <tr style="border: none; background: transparent;">
     <!-- CARD 3 -->
     <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #7159c1; border-radius: 8px; padding: 20px;" valign="top">
       <h3 align="center" style="color: #38BDF8; margin-top: 0;">📂 Portfólio Pessoal</h3>
@@ -135,6 +129,24 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
+</p>
+
+<!-- SEÇÃO ESTUDOS -->
+<div align="center">
+  <h3>📚 Atualmente Estudando</h3>
+  <br>
+  <p>
+    <code>HTML5 & CSS3 Avançado</code> &nbsp;|&nbsp; 
+    <code>JavaScript ES6+</code> &nbsp;|&nbsp; 
+    <code>React</code> &nbsp;|&nbsp; 
+    <code>Java & Spring Boot</code> &nbsp;|&nbsp; 
+    <code>APIs RESTful</code> &nbsp;|&nbsp; 
+    <code>Conceitos de UI/UX</code>
+  </p>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
