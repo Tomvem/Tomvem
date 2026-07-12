@@ -1,9 +1,8 @@
-
-<!-- CARD PRINCIPAL: SOBRE MIM -->
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <h2 align="center">👋 Sobre Mim</h2>
+<!-- CARD PRINCIPAL: APRESENTAÇÃO -->
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <h2 align="center">👋 Apresentação</h2>
       <p align="justify" style="font-size: 11pt; line-height: 1.6;">
         Olá! Sou o <strong>Éverton Hildebrando</strong>, um desenvolvedor apaixonado por desenvolvimento web e por transformar ideias em experiências digitais incríveis. Atualmente, moro em Palhoça - SC e estou expandindo constantemente meu ecossistema de habilidades tecnológicas.
       </p>
@@ -17,7 +16,7 @@
 <br>
 
 <!-- INFORMAÇÕES ACADÊMICAS -->
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: none; padding-right: 10px;">
       <h3>🎓 Formação Acadêmica</h3>
@@ -64,7 +63,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,java,spring,mysql,figma&theme=dark" alt="Skill Icons" />
@@ -74,13 +72,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
 </p>
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
-</p>
-
 
 <!-- PROJETOS EM FORMATO DE CARDS PREMIUM -->
 <h2 align="center">💻 Portfólio de Projetos</h2>
@@ -92,11 +83,11 @@
     <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #7159c1; border-radius: 8px; padding: 20px;" valign="top">
       <h3 align="center" style="color: #00f5d4; margin-top: 0;">📚 Sistema Gestão de Alunos</h3>
       <p align="justify" style="color: #a9b1d6; font-size: 10pt;">
-        Plataforma completa para controle de matrículas, gerenciamento de turmas, lançamento de notas e controle de frequência.
+        Plataforma completa para controle de caixa eletrônico.
       </p>
       <p style="font-size: 9pt; color: #7aa2f7;"><strong>🔧 Techs:</strong> Java, Spring Boot, MySQL, REST API</p>
       <p align="center" style="margin-bottom: 0;">
-        <a href="https://github.com/Tonwem" target="_blank">
+        <a href="https://github.com/Tomvem/SistemaCaixaEletronic1" target="_blank">
           <img src="https://img.shields.io/badge/Acessar_Projeto-7159c1?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
         </a>
       </p>
@@ -109,7 +100,7 @@
       </p>
       <p style="font-size: 9pt; color: #7aa2f7;"><strong>🔧 Techs:</strong> HTML5, CSS3, JavaScript, Charts API</p>
       <p align="center" style="margin-bottom: 0;">
-        <a href="https://github.com/Tonwem" target="_blank">
+        <a href="https://github.com/Tomvem/Api_IBGE" target="_blank">
           <img src="https://img.shields.io/badge/Acessar_Projeto-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
         </a>
       </p>
@@ -120,11 +111,11 @@
     <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #7159c1; border-radius: 8px; padding: 20px;" valign="top">
       <h3 align="center" style="color: #38BDF8; margin-top: 0;">📂 Portfólio Pessoal</h3>
       <p align="justify" style="color: #a9b1d6; font-size: 10pt;">
-        Landing page premium desenvolvida do zero para apresentação de competências profissionais, histórico técnico e formulário de contato.
+        Plataforma com o objetivo de auxílio a beber água diariamente.
       </p>
       <p style="font-size: 9pt; color: #7aa2f7;"><strong>🔧 Techs:</strong> HTML5, CSS3, JavaScript ES6+, UI/UX</p>
       <p align="center" style="margin-bottom: 0;">
-        <a href="https://github.com/Tonwem" target="_blank">
+        <a href="https://github.com/Tomvem/LembreteAgua" target="_blank">
           <img src="https://img.shields.io/badge/Acessar_Projeto-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
         </a>
       </p>
@@ -133,11 +124,11 @@
     <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #7159c1; border-radius: 8px; padding: 20px;" valign="top">
       <h3 align="center" style="color: #00f5d4; margin-top: 0;">🌐 Projeto Web</h3>
       <p align="justify" style="color: #a9b1d6; font-size: 10pt;">
-        Aplicação Web moderna com foco em performance e SEO, integrando consumo de APIs assíncronas e arquitetura limpa de componentes.
+        Aplicação web para controlar intervalos de trabalho ou estudo, com lembretes automáticos para realizar pausas.
       </p>
       <p style="font-size: 9pt; color: #7aa2f7;"><strong>🔧 Techs:</strong> HTML5, CSS3, JavaScript, Flexbox/Grid</p>
       <p align="center" style="margin-bottom: 0;">
-        <a href="https://github.com/Tonwem" target="_blank">
+        <a href="https://github.com/Tomvem/Pomodoro" target="_blank">
           <img src="https://img.shields.io/badge/Acessar_Projeto-00f5d4?style=for-the-badge&logo=github&logoColor=black" alt="Link" />
         </a>
       </p>
@@ -149,38 +140,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
 </p>
 
-<!-- SEÇÃO ESTUDOS E OBJETIVOS -->
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr style="border: none;">
-    <!-- COLUNA 1: ESTUDANDO -->
-    <td width="50%" valign="top" style="border: none; padding-right: 15px;">
-      <h3 align="center">📚 Atualmente Estudando</h3>
-      <ul style="line-height: 1.8;">
-        <li>⚡ <code>HTML5 & CSS3 Avançado</code></li>
-        <li>⚡ <code>JavaScript ES6+</code></li>
-        <li>⚛️ <code>React</code></li>
-        <li>☕ <code>Java & Spring Boot</code></li>
-        <li>🌐 <code>APIs RESTful</code></li>
-        <li>🎨 <code>Conceitos de UI/UX</code></li>
-      </ul>
-    </td>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divisor" />
-</p>
-
-
 <!-- CONTATO -->
-<h2 align="center">🤝Conexões</h2>
+<h2 align="center">🤝 Conexões</h2>
 <p align="center">
   <a href="https://github.com/Tomvem" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="www.linkedin.com/in/evertonhildebrando" target="_blank">
+  <a href="https://www.linkedin.com/in/evertonhildebrando" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="evertonhildebrando1234@gmail.com">
+  <a href="mailto:evertonhildebrando1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
